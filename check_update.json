@@ -1,4 +1,1 @@
-{
-  "latest_version": "2.1.1",
-  "download_link": "OK"
-}
+{"latest_version":"v2.1.4","download_link":"https://raw.github.boschdevcloud.com/ONG1HC/ECUTest_Toolchain/main/ECUTest_Toolchain_v2.1.4.zip?token=GHSAT0AAAAAAAACC3C4AQVD6ZEYCQ5PATTGZ77SKQA","description":"\nUpdated:\n1. Add more project 'Subaru' in the project menu.\n2. Separate Testspec to Script as 2 actions [Analyze Testspec, Generate Script] to avoid refuse generating script from ECUtest API.\n3. Able to analyze 50 testspecs for Renault and 100 testspecs for Subaru."}
